@@ -1,0 +1,7 @@
+D:/University/Programming/lab10-Arithmetic/build/CMakeFiles/ALL_BUILD.dir
+D:/University/Programming/lab10-Arithmetic/build/CMakeFiles/ZERO_CHECK.dir
+D:/University/Programming/lab10-Arithmetic/build/List/CMakeFiles/List.dir
+D:/University/Programming/lab10-Arithmetic/build/Polinom/CMakeFiles/Polinom.dir
+D:/University/Programming/lab10-Arithmetic/build/main/CMakeFiles/main.dir
+D:/University/Programming/lab10-Arithmetic/build/gtest/CMakeFiles/gtest.dir
+D:/University/Programming/lab10-Arithmetic/build/test/CMakeFiles/MP10_TESTS.dir

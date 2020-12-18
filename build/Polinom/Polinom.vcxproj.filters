@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\University\Programming\lab10-Arithmetic\Polinom\Polinom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\University\Programming\lab10-Arithmetic\Polinom\TMonom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\University\Programming\lab10-Arithmetic\Polinom\Polinom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\University\Programming\lab10-Arithmetic\Polinom\TMonom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\University\Programming\lab10-Arithmetic\Polinom\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18B47DCC-6034-3F28-8509-EE658FB942D7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{989BACB1-F733-36A0-9A02-B1CA274C479C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
